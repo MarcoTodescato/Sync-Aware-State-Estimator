@@ -59,6 +59,8 @@ Data (~200MB) are available [here](https://drive.google.com/file/d/1ZdVsxXF2aDUY
 Download and untar the data inside the REPO folder. This should create a data/ subdirectory with the necessary 
 data (.mat files) inside.
 
+Additional data related to the EPFL smart grid can be found [here](http://nanotera-stg2.epfl.ch/data/).
+Be aware that this must be converted into a suitable format before using them with this code.
 
 ## Contribute
 
